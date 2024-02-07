@@ -1,4 +1,4 @@
-# [Open Frontend](https://napoleon-bonaparte-official.github.io/corsica-frontend/)
+# [Open Frontend](https://napoleon-bonaparte-official.github.io/login-cpt-prep/)
 
 # IMPORTANT
 
